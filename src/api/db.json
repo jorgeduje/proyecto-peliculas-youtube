@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Pulp Fiction",
+      "description": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención",
+      "img": "https://cdn.sincroguia.tv/uploads/programs/p/u/l/pulp-fiction-340_SPA-37.jpg",
+      "createdAt": "16 de febrero de 1995",
+      "isLiked": true
+    },
+    {
+      "id": 2,
+      "name": "Perfume de mujer",
+      "description": "Frank, un militar ciego, emprende un viaje a Nueva York con un joven recluta que le cuida durante Acción de Gracias. Frank está dispuesto a matar a un antiguo compañero de armas, y después, suicidarse.",
+      "img": "https://www.nosolocine.net/wp-content/uploads/2021/05/Perfume-Scent-of-a-Woman-1024x576.jpg",
+      "createdAt": "18 de febrero de 1993",
+      "isLiked": true
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter",
+      "description": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería...",
+      "img": "https://www.cronista.com/files/image/488/488121/636e67d2c55ba.jpg",
+      "createdAt": "29 de noviembre de 2001",
+      "isLiked": true
+    }
+  ]
+}
